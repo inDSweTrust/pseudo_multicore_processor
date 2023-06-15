@@ -66,6 +66,6 @@ pip install -r requirements.txt
 ### Run Project
 
 ```console
-python pseudo_processor.py --path path/to/codetxtfile --pe NUM PEs --pl naive
+python pseudo_processor.py --path path/to/codetxtfile --pe NUM_PEs --pl naive
 ```
 Note: greedy placement implementation is available, however does not work for all cases. Running naive placement is recommended. 
