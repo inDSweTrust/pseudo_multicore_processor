@@ -59,6 +59,10 @@ Intermediate Representation and the DAG visualization will be dumped in the outp
 ## Install and run project
 
 ### Requirements 
+
+Required libraries:
+- [regex](https://pypi.org/project/regex/)
+- [graphviz](https://pypi.org/project/graphviz/)
 ```console
 pip install -r requirements.txt 
 ```
